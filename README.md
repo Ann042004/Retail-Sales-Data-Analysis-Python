@@ -27,4 +27,4 @@ This project analyzes a simulated dataset of retail sales records using **Python
 3.  Run `analysis.py` to see the cleaning process and the final sales chart.
 
 ---
-*Author: [Tên của bạn]*
+*Author: Lê Thuận An
